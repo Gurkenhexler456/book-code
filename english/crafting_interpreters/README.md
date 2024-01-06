@@ -1,3 +1,3 @@
 # Crafting Interpreters
 
-Currently at: [Scanner: Regular Languages and Expressions](https://craftinginterpreters.com/scanning.html#regular-languages-and-expressions)
+Currently at: [Scanner: Recognizing Lexems](https://craftinginterpreters.com/scanning.html#recognizing-lexemes)
